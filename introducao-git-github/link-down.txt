@@ -1,0 +1,2 @@
+Link para download do terminal gitbash
+https://git-scm.com/
